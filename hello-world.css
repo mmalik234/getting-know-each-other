@@ -1,12 +1,12 @@
-h1 {color:black}
-h2 {color:darkblue}
+h1 {color:black,}
+h2 {color:rgb(139, 0, 0)}
 h2 {font-size: larger;}
-h3 {color:darkblue}
+h3 {color:rgb(139, 0, 0)}
 h3 {font-size: larger;}
-h4 {color:darkblue}
+h4 {color:rgb(139, 0, 0)}
 h4 {font-size: larger;}
-h5 {color:darkblue}
+h5 {color:rgb(139, 0, 0)}
 h5 {font-size: larger;}
-h6 {color:darkblue}
+h6 {color:rgb(139, 0, 0)}
 h6 {font-size: larger;}
 
